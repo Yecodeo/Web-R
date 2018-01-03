@@ -95,7 +95,7 @@ see *html-webpack-plugin*
   "webpack-dev-server": "^2.9.7"
 }
 ```
-****Webpack configuation ****
+****Webpack configuation****
 
 ```
 var path = require('path');             // require to resolve paths
