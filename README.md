@@ -118,14 +118,14 @@ After creation, your project should look like this:
 
 ```
 Web-R/
-  :open_file_folder: src/
-    :open_file_folder: actions/
-    :open_file_folder: components/
-    :open_file_folder: containers/
-    :open_file_folder: images/
-    :open_file_folder: styles/
-    :open_file_folder: utiles/
-    :open_file_folder: public/
+  :file_folder: src/
+    :file_folder: actions/
+    :file_folder: components/
+    :file_folder: containers/
+    :file_folder: images/
+    :file_folder: styles/
+    :file_folder: utiles/
+    :file_folder: public/
     App.css
     App.js
     App.test.js
