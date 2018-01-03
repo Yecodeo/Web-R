@@ -164,7 +164,13 @@ var config = {
       			},
       			{
       				test: /\.scss$/,
-      				loaders: ['style-loader', 'css-loader', 'sass-loader', 'resolve-url-loader?sourceMap', 'sass-loader?sourceMap'],
+      				loaders: [
+                'style-loader',
+                'css-loader',
+                'sass-loader',
+                'resolve-url-loader?sourceMap',
+                'sass-loader?sourceMap'
+              ],
       				include: path.resolve(__dirname, '../../')
       			},
       			{
