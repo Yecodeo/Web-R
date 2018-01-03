@@ -1,3 +1,4 @@
+:smile:
 ### WebR is a Webpack, ESlint, Babel, ReactJS starter kit
 
 ## Table of Contents
@@ -111,7 +112,7 @@ We commit to keeping the breaking changes minimal so you can upgrade `react-scri
 
 We are always open to [your feedback](https://github.com/facebookincubator/create-react-app/issues).
 
-## Folder Structure
+## Folder Structure :open_file_folder:
 
 After creation, your project should look like this:
 
