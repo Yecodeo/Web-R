@@ -1,13 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+### WebR is a Webpack, ESlint, Babel, ReactJS starter kit
 
 ## Table of Contents
 
-- [Updating to New Releases](#updating-to-new-releases)
-- [Sending Feedback](#sending-feedback)
-- [Folder Structure](#folder-structure)
+
 - [Available Scripts](#available-scripts)
   - [npm start](#npm-start)
   - [npm test](#npm-test)
@@ -121,20 +116,23 @@ We are always open to [your feedback](https://github.com/facebookincubator/creat
 After creation, your project should look like this:
 
 ```
-my-app/
-  README.md
-  node_modules/
-  package.json
-  public/
-    index.html
-    favicon.ico
-  src/
+Web-R/
+  :open_file_folder: src/
+    :open_file_folder: actions/
+    :open_file_folder: components/
+    :open_file_folder: containers/
+    :open_file_folder: images/
+    :open_file_folder: styles/
+    :open_file_folder: utiles/
+    :open_file_folder: public/
     App.css
     App.js
     App.test.js
     index.css
     index.js
     logo.svg
+  README.md
+  package.json
 ```
 
 For the project to build, **these files must exist with exact filenames**:
