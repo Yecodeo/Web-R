@@ -16,7 +16,7 @@ class App extends Component {
             <p className="lead">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur dignissimos,
               dolorem expedita facere inventore libero molestiae odio! Aperiam deserunt dolorum
-              ipsum maiores, sit ullam voluptatibus? Animi esse expedita porro repellat.
+              ipsum maiores, sit ullam voluptatibus? Animi esse expedita porro.
             </p>
             <hr className="my-2" />
             <h3>
