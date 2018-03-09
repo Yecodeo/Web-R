@@ -46,7 +46,8 @@
     "react/prefer-stateless-function": "off",
     "class-methods-use-this": "off",
     "linebreak-style": 0,
-    "default-case": "off"
+    "default-case": "off",
+    "react/require-default-props": "off"
   },
   "settings": {
     "import/resolver": {
